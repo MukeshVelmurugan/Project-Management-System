@@ -18,6 +18,16 @@ The Project Management System is designed as a professional web application for 
 
 ## 📊 Database Schema : [Project Management System Database Schema.pdf](https://github.com/user-attachments/files/32159434/Project.Management.System.Database.Schema.pdf)
 
+## 🔑 Demo Login
+
+Use the following demo account to explore the application.
+
+| **Field**    | **Value**             |
+| ------------ | --------------------- |
+| **Email**    | `demouser@gmail.com` |
+| **Password** | `User@123`              |
+
+> **Note:** These credentials are provided for demonstration and evaluation purposes only.
 
 
 ## 🔐 Authentication
